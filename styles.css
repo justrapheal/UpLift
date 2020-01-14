@@ -1,0 +1,47 @@
+body{
+
+}
+.navbar h1{
+    font-family: 'Acme', sans-serif;
+    color: red;
+}
+.bg-dark{
+    opacity: 0.6;
+}
+.navbar-nav input{
+    margin: 10px;
+    background-color:black;
+    color: white;
+    border-bottom: 2px solid white;
+    outline: none;
+    font-family: 'Acme', sans-serif;
+    width: 200px;
+}
+.carousel-caption{
+    position: absolute;
+    top: 300px;
+    text-transform: uppercase;
+}
+.footer{
+    background-color: black;
+    
+}
+.navbar-nav button{
+    width: 100px;
+    height: 50px;
+    color: white;
+    font-family: 'Acme', sans-serif;
+    font-weight: bolder;
+    font-size: 25px; 
+    outline: none;
+    border: 0px;
+    background-color: black;
+    border-radius: 5px;
+
+}
+.navbar-nav button:hover{
+    background-color: red;
+}
+
+
+    
